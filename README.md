@@ -130,7 +130,7 @@ The notebook includes visualizations for:
 
 ## Author
 
-Ritvik (@ritvikvr)
+Ritvik V R(@ritvikvr)
 
 ## License
 
